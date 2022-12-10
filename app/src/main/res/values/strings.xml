@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Proyek 1 Dara</string>
+    <string name="nama">Dara Nur Istiqomah</string>
+    <string name="nim">232010080</string>
+    <string name="fakultas">Pendidikan Mipa dan Teknologi</string>
+    <string-array name="prodi">
+        <item>Pendidikan Matematika</item>
+        <item>Pendidikan Fisika</item>
+        <item>Pendidikan Teknologi Informasi</item>
+        <item>Pendidikan Biologi</item>
+    </string-array>
+
+    <!--Bagian Aplikasi-->
+    <string name="pertama">Ini adalah desain pertama di Android</string>
+    <string name="pesan">Tuliskan pesan anda disini</string>
+    <string name="bPertama">Tekan</string>
+    <string name="bKedua">Lepas</string>
+    <string name="cb1">Pilihan 1</string>
+    <string name="cb2">Pilihan 2</string>
+    <string name="jk1">Laki-laki</string>
+    <string name="jk2">Perempuan</string>
+
+    <!--Bagian LinearLayout2-->
+    <string name="kepada">Kepada</string>
+    <string name="subyek">Subyek</string>
+    <string name="isi">Isi Pesan</string>
+    <string name="kirim">Kirim</string>
+
+
+    <string name="copyright">Created by Dara Nur Istiqomah \n IKIP PGRI PONTIANAK </string>
+    <string name="username">Masukkan Nama Anda </string>
+</resources>

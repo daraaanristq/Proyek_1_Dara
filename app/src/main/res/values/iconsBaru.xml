@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="iconBaru">
+        <item>@drawable/icon_ig</item>
+        <item>@drawable/icon_twit</item>
+        <item>@drawable/icon_wa</item>
+    </array>
+
+    <array name="warna">
+        <item>@color/pink_sweet</item>
+        <item>@color/peachy</item>
+        <item>@color/brown</item>
+    </array>
+</resources>
